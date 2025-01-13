@@ -1,0 +1,6 @@
+ekstrak "tugas akhir web" ke "xampp\htdocs\"
+
+ekstrak "database nomnom" ke "xampp\mysql\data\"
+
+jalankan xampp module "apache" dan "MySQL" lalu mulai dari
+ketik di search bar "http://localhost/tugas%20akhir%20web/index.php"
