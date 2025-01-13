@@ -1,0 +1,1 @@
+Nomnom adalah platform berbagi resep makanan berbasis web yang dirancang untuk memudahkan pengguna dalam mencari, berbagi, dan menyimpan resep makanan. Platform ini menghubungkan komunitas pecinta kuliner melalui fitur interaktif seperti komentar, ulasan, dan rating.
